@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alj-dic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-17 03:59+0100\n"
+"PO-Revision-Date: 2017-06-22 20:01+0900\n"
+"Last-Translator: CAISSON Fred\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Loco-Project-Id: 9593\n"
+"X-Loco-Api-Version: 1.0.17 20170620-1\n"
+
+#: loco:59466f2bc430fe00438b456f
+msgid "martial arts term"
+msgstr "Terme en arts martiaux"
+
+#: loco:59466f32c430feb4438b456f
+msgid "rude or X-rated term (not displayed in educational software)"
+msgstr "Terme pornographique ou rude"
+
+#: loco:59466f37c430fece438b456b
+msgid "abbreviation"
+msgstr "Abréviation"
+
+#: loco:59466f3dc430fea4448b456b
+msgid "adjective (keiyoushi)"
+msgstr "Adjectif (keiyoushi : 形容詞)"
+
+#: loco:59466f45c430feb3438b4569
+msgid "adjective (keiyoushi) - yoi/ii class"
+msgstr "Adjectif finissant en \"yoi/ii\"  (ii-keiyoushi : いい形容詞)"
+
+#: loco:59466f4cc430fefb438b4567
+msgid "adjectival nouns or quasi-adjectives (keiyodoshi)"
+msgstr "Nom quasi-adjectif (keiyodoshi : 形容動詞)"
+
+#: loco:59466f52c430feb2438b456b
+msgid "nouns which may take the genitive case particle `no'"
+msgstr "Nom qui prend le génitif du particule \"no\""
+
+#: loco:59466f58c430feb3438b456b
+msgid "pre-noun adjectival (rentaishi)"
+msgstr "Adjectif déterminatif se plaçant devant un nom"
+
+#: loco:59466f5fc430fefb438b4569
+msgid "`taru' adjective"
+msgstr "Adjectif avec \"taru\""
+
+#: loco:59466f65c430fe99428b456b
+msgid "noun or verb acting prenominally"
+msgstr "Nom ou verbe prénominaire"
+
+#: loco:59466f6bc430fea7438b4569
+msgid "adverb (fukushi)"
+msgstr "Adverbe (fukushi : 副詞)"
+
+#: loco:59466f71c430fe8a448b456b
+msgid "adverb taking the `to' particle"
+msgstr "Adverbe utilisant le particule \"to\""
+
+#: loco:59466f75c430feb2438b456d
+msgid "archaism"
+msgstr "Archaïque"
+
+#: loco:59466f7bc430fea1448b456b
+msgid "ateji (phonetic) reading"
+msgstr "Lecture phonétique (ateji : 当て字)"
+
+#: loco:59466f80c430fefb438b456b
+msgid "auxiliary"
+msgstr "Auxiliaire"
+
+#: loco:59466f86c430fe99428b456d
+msgid "auxiliary verb"
+msgstr "Auxiliaire verbe"
+
+#: loco:59466f8cc430fef2438b456d
+msgid "auxiliary adjective"
+msgstr "Auxiliaire adjectif"
+
+#: loco:59466f93c430fecf438b456f
+msgid "Buddhist term"
+msgstr "Terme bouddhiste"
+
+#: loco:59466f9bc430fe9c438b456d
+msgid "chemistry term"
+msgstr "Terme en chimie"
+
+#: loco:59466fa1c430fef2438b456f
+msgid "children's language"
+msgstr "Langage utilisé par les enfants"
+
+#: loco:59466fa6c430fe8a448b456d
+msgid "colloquialism"
+msgstr "Expression familière"
+
+#: loco:59466fabc430fea6438b456d
+msgid "computer terminology"
+msgstr "Terme informatique"
+
+#: loco:59466fb0c430fef2438b4571
+msgid "conjunction"
+msgstr "Conjonction"
+
+#: loco:59466fb4c430fe51428b456b
+msgid "copula"
+msgstr "Copule"
+
+#: loco:59466fb9c430fe9c438b456f
+msgid "counter"
+msgstr "Compteur"
+
+#: loco:59466fbdc430fea1448b456d
+msgid "derogatory"
+msgstr "Terme dérogatoire"
+
+#: loco:59466fc3c430fe51428b456d
+msgid "exclusively kanji"
+msgstr "Terme uniquement en Kanji"
+
+#: loco:59466fc9c430fecd438b456d
+msgid "exclusively kana"
+msgstr "Terme uniquement en Kana"
+
+#: loco:59466fcfc430fef2438b4573
+msgid "expressions (phrases, clauses, etc.)"
+msgstr "Expressions (phrases, clauses...)"
+
+#: loco:59466fd5c430fe51428b456f
+msgid "familiar language"
+msgstr "Langage familier"
+
+#: loco:59466ff0c430fef2438b4575
+msgid "female term or language"
+msgstr "Terme utilisé par les femmes"
+
+#: loco:59466ff7c430fe00438b4571
+msgid "food term"
+msgstr "Terme alimentaire"
+
+#: loco:59466ffdc430fecd438b456f
+msgid "geometry term"
+msgstr "Terme en géométrie"
+
+#: loco:59467003c430fef2438b4577
+msgid "gikun (meaning as reading) or jukujikun (special kanji reading)"
+msgstr "Mots avec une lecture spécifique (gikun : 儀訓 ou jukujikun : 熟字訓)"
+
+#: loco:59467008c430fe00438b4573
+msgid "honorific or respectful (sonkeigo) language"
+msgstr "Langage honorifique (sonkeigo : 尊敬語)"
+
+#: loco:5946700ec430fea6438b456f
+msgid "humble (kenjougo) language"
+msgstr "Langage humble (kenjougo : 謙譲語)"
+
+#: loco:59467014c430fece438b456d
+msgid "word containing irregular kanji usage"
+msgstr "Mot contenant un kanji irrégulier"
+
+#: loco:5946701ac430fea4448b456d
+msgid "idiomatic expression"
+msgstr "Expression idiomatique"
+
+#: loco:59467025c430fea7438b456b
+msgid "word containing irregular kana usage"
+msgstr "Mot contenant un kana irrégulier"
+
+#: loco:5946702ac430fe6e428b4573
+msgid "interjection (kandoushi)"
+msgstr "Interjection (kandoushi : 感動詞)"
+
+#: loco:59467030c430fe99428b456f
+msgid "irregular okurigana usage"
+msgstr "Utilisation irrégulière en okurigana"
+
+#: loco:59467039c430fef2438b4579
+msgid "irregular verb"
+msgstr "Verbe irrégulier"
+
+#: loco:59467046c430fea4448b456f
+msgid "linguistics terminology"
+msgstr "Terme linguistique"
+
+#: loco:59467064c430fecf438b4571
+msgid "manga slang"
+msgstr "Argo (slang) dans les mangas"
+
+#: loco:5946706ac430fe9c438b4571
+msgid "male term or language"
+msgstr "Terme utilisé par les hommes"
+
+#: loco:59467070c430fea7438b456d
+msgid "male slang"
+msgstr "Argo (slang) utilisé par les hommes"
+
+#: loco:59467076c430fecf438b4573
+msgid "mathematics"
+msgstr "Terme mathématique"
+
+#: loco:5946707ac430fe99428b4571
+msgid "military"
+msgstr "Terme militaire"
+
+#: loco:59467081c430fec4438b456f
+msgid "noun (common) (futsuumeishi)"
+msgstr "Nom commun (futsuumeishi : 普通名詞)"
+
+#: loco:59467087c430fea4448b4571
+msgid "adverbial noun (fukushitekimeishi)"
+msgstr "Nom adverbial (fukushitekimeishi : 副詞的名詞)"
+
+#: loco:5946708ec430feb3438b456d
+msgid "noun, used as a suffix"
+msgstr "Nom utilisé comme suffixe"
+
+#: loco:59467094c430fe8a448b456f
+msgid "noun, used as a prefix"
+msgstr "Nom utilisé comme préfixe"
+
+#: loco:5946709bc430fea6438b4571
+msgid "noun (temporal) (jisoumeishi)"
+msgstr "Nom temporel (jisoumeishi : 時相名詞)"
+
+#: loco:594670a1c430fece438b456f
+msgid "numeric"
+msgstr "Numérique"
+
+#: loco:594670a8c430fe00438b4575
+msgid "word containing out-dated kanji"
+msgstr "Mot contenant un kanji obsolète "
+
+#: loco:594670afc430fe99428b4573
+msgid "obsolete term"
+msgstr "Terme obsolète"
+
+#: loco:594670b7c430fec4438b4571
+msgid "obscure term"
+msgstr "Terme obscur"
+
+#: loco:594670bdc430fea5438b456d
+msgid "out-dated or obsolete kana usage"
+msgstr "Kana obsolète"
+
+#: loco:594670c3c430feb3438b456f
+msgid "old or irregular kana form"
+msgstr "Vieille forme ou irrégulière d'un kana"
+
+#: loco:594670cbc430fec4438b4573
+msgid "onomatopoeic or mimetic word"
+msgstr "Onomatopée"
+
+#: loco:594670dcc430fecd438b4571
+msgid "pronoun"
+msgstr "Pronom"
+
+#: loco:594670e3c430fec4438b4575
+msgid "poetical term"
+msgstr "Terme poétique"
+
+#: loco:594670e9c430fe00438b4577
+msgid "polite (teineigo) language"
+msgstr "Langage poli (teineigo : 丁寧語)"
+
+#: loco:594670efc430fea6438b4573
+msgid "prefix"
+msgstr "Préfixe"
+
+#: loco:594670f6c430fef2438b457b
+msgid "proverb"
+msgstr "Proverbe"
+
+#: loco:594670fbc430fea5438b456f
+msgid "particle"
+msgstr "Particule"
+
+#: loco:59467102c430fea7438b456f
+msgid "physics terminology"
+msgstr "Terme de physique"
+
+#: loco:59467107c430fe33458b4567
+msgid "rare"
+msgstr "Terme rare"
+
+#: loco:5946710bc430fea4448b4573
+msgid "sensitive"
+msgstr "Terme sensitif"
+
+#: loco:59467111c430fea7438b4571
+msgid "slang"
+msgstr "Argot (slang)"
+
+#: loco:594671c9c430feb4438b4571
+msgid "suffix"
+msgstr "Suffixe"
+
+#: loco:594671d0c430fe33458b4569
+msgid "word usually written using kanji alone"
+msgstr "Mot écrit en kanji uniquement"
+
+#: loco:594671d8c430fe9c438b4573
+msgid "word usually written using kana alone"
+msgstr "Mot écrit en kana uniquement"
+
+#: loco:594671ddc430fea1448b456f
+msgid "unclassified"
+msgstr "-"
+
+#: loco:594671e1c430fefb438b456d
+msgid "yojijukugo"
+msgstr "Expression idiomatique composé de kanji (yojijukugo : 四字熟語)"
+
+#: loco:594671e7c430fe60458b4567
+msgid "Ichidan verb"
+msgstr "Verbe du groupe Ichidan (一段)"
+
+#: loco:594671eec430fea7438b4573
+msgid "Ichidan verb - kureru special class"
+msgstr "Verbe spécial du groupe Ichidan (一段) \"kureru\""
+
+#: loco:594671f4c430fecf438b4575
+msgid "Nidan verb with 'u' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"u\" (archaïque)"
+
+#: loco:594671fbc430fecd438b4573
+msgid "Yodan verb with `hu/fu' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"hu/fu\" (archaïque)"
+
+#: loco:59467201c430fec4438b4577
+msgid "Yodan verb with `ru' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"ru\" (archaïque)"
+
+#: loco:5946720cc430fea5438b4571
+msgid "Godan verb - -aru special class"
+msgstr "Verbe spécial du groupe Godan (五段) avec \"aru\""
+
+#: loco:59467213c430fea7438b4575
+msgid "Godan verb with `bu' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"bu\""
+
+#: loco:59467219c430fe8a448b4571
+msgid "Godan verb with `gu' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"gu\""
+
+#: loco:59467220c430fe60458b4569
+msgid "Godan verb with `ku' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"ku\""
+
+#: loco:59467225c430fec4438b4579
+msgid "Godan verb - Iku/Yuku special class"
+msgstr "Verbe spécial du groupe Godan (五段) avec \"iku\" ou \"yuku\""
+
+#: loco:5946722cc430fecf438b4577
+msgid "Godan verb with `mu' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"mu\""
+
+#: loco:59467233c430feb3438b4571
+msgid "Godan verb with `nu' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"nu\""
+
+#: loco:59467239c430fe33458b456b
+msgid "Godan verb with `ru' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"ru\""
+
+#: loco:5946723fc430fea5438b4573
+msgid "Godan verb with `ru' ending (irregular verb)"
+msgstr "Verbe irrégulier du groupe Godan (五段) finissant en \"ru\""
+
+#: loco:59467245c430fe1e458b4567
+msgid "Godan verb with `su' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"su\""
+
+#: loco:5946724bc430feb4438b4573
+msgid "Godan verb with `tsu' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"tsu\""
+
+#: loco:59467251c430fece438b4571
+msgid "Godan verb with `u' ending"
+msgstr "Verbe du groupe Godan (五段) finissant en \"u\""
+
+#: loco:59467257c430fe60458b456b
+msgid "Godan verb with `u' ending (special class)"
+msgstr "Verbe spécial du groupe Godan (五段) finissant en \"u\""
+
+#: loco:5946726ac430fea4448b4575
+msgid "Ichidan verb - zuru verb (alternative form of -jiru verbs)"
+msgstr ""
+"Verbe du groupe Ichidan (一段) avec \"zuru\" (forme alternative des verbes "
+"\"jiru\")"
+
+#: loco:59467271c430feb4438b4575
+msgid "intransitive verb"
+msgstr "Verbe intransitif"
+
+#: loco:59467277c430fe8a448b4573
+msgid "Kuru verb - special class"
+msgstr "Verbe irrégulier \"kuru\""
+
+#: loco:5946727ec430fe9c438b4575
+msgid "irregular nu verb"
+msgstr "﻿Verbe irrégulier avec \"nu\""
+
+#: loco:59467285c430fea7438b4577
+msgid "irregular ru verb, plain form ends with -ri"
+msgstr "Verbe irrégulier avec \"ru\" (forme ordinaire finissant avec \"ri\")."
+
+#: loco:5946728cc430fe1e458b4569
+msgid "noun or participle which takes the aux. verb suru"
+msgstr "Nom ou participe prenant l'auxiliaire du verbe \"suru\""
+
+#: loco:59467293c430fecd438b4575
+msgid "su verb - precursor to the modern suru"
+msgstr "Verbe finissant par \"su\" précurseur de la forme moderne \"suru\""
+
+#: loco:5946729ac430fea1448b4571
+msgid "suru verb - special class"
+msgstr "Verbe spécial en \"suru\""
+
+#: loco:594672a0c430fea4448b4577
+msgid "suru verb - irregular"
+msgstr "Verbe irrégulier \"suru\""
+
+#: loco:594672a6c430fea7438b4579
+msgid "Kyoto-ben"
+msgstr "Dialecte de Kyoto (Kyoto-ben : 京都弁)"
+
+#: loco:594672acc430fe8a448b4575
+msgid "Osaka-ben"
+msgstr "Dialecte de Osaka (Osaka-ben : 大阪弁)"
+
+#: loco:594672b2c430fe9c438b4577
+msgid "Kansai-ben"
+msgstr "Dialecte de Kansai (Kansai-ben : 関西弁)"
+
+#: loco:594672b7c430fef2438b457d
+msgid "Kantou-ben"
+msgstr "Dialecte de Kantou (Kantou-ben : 関東弁)"
+
+#: loco:594672bdc430fe1e458b456b
+msgid "Tosa-ben"
+msgstr "Dialecte de Tosa (Tosa-ben : 土佐弁)"
+
+#: loco:594672c2c430fecd438b4577
+msgid "Touhoku-ben"
+msgstr "Dialecte de Touhoku (Touhoku-ben : 東北弁)"
+
+#: loco:594672cec430fe94458b4567
+msgid "Tsugaru-ben"
+msgstr "Dialecte de Tsugaru (Tsugaru-ben : 津軽弁)"
+
+#: loco:594672d4c430fe60458b456d
+msgid "Kyuushuu-ben"
+msgstr "Dialecte de Kyuushuu (Kyuushuu-ben : 九州弁)"
+
+#: loco:594672d9c430fe33458b456d
+msgid "Ryuukyuu-ben"
+msgstr "Dialecte de Ryuukyuu (Ryuukyuu-ben : 琉球弁)"
+
+#: loco:594672dfc430fe8a448b4577
+msgid "Nagano-ben"
+msgstr "Dialecte de Nagano (Nagano-ben : 長野弁)"
+
+#: loco:594672e4c430fe9c438b4579
+msgid "Hokkaido-ben"
+msgstr "Dialecte de Hokkaido (Hokkaido-ben : 北海道弁)"
+
+#: loco:594672ebc430fea1448b4573
+msgid "transitive verb"
+msgstr "Verbe transitif"
+
+#: loco:594672f2c430fecf438b4579
+msgid "vulgar expression or word"
+msgstr "Terme vulgaire"
+
+#: loco:594672f7c430fecd438b4579
+msgid "`kari' adjective (archaic)"
+msgstr "Adjectif avec \"kari\" (archaïque)"
+
+#: loco:594672fec430fef2438b457f
+msgid "`ku' adjective (archaic)"
+msgstr "Adjectif avec \"ku\" (archaïque)"
+
+#: loco:59467304c430fecf438b457b
+msgid "`shiku' adjective (archaic)"
+msgstr "Adjectif avec \"shiku\" (archaïque)"
+
+#: loco:5946730ac430feb4438b4577
+msgid "archaic/formal form of na-adjective"
+msgstr "Adjectif finissant en \"na\" (na-keiyoshi : な形容詞)"
+
+#: loco:59467310c430fefb438b456f
+msgid "proper noun"
+msgstr "Nom propre"
+
+#: loco:59467316c430fe60458b456f
+msgid "verb unspecified"
+msgstr "Verbe"
+
+#: loco:5946731dc430fe33458b456f
+msgid "Yodan verb with `ku' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"ku\" (archaïque)"
+
+#: loco:59467324c430fe8a448b4579
+msgid "Yodan verb with `gu' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"gu\" (archaïque)"
+
+#: loco:5946732ac430fe9c438b457b
+msgid "Yodan verb with `su' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"su\" (archaïque)"
+
+#: loco:59467332c430fec4438b457b
+msgid "Yodan verb with `tsu' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"tsu\" (archaïque)"
+
+#: loco:59467338c430fe94458b4569
+msgid "Yodan verb with `nu' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"nu\" (archaïque)"
+
+#: loco:5946733fc430fea6438b4575
+msgid "Yodan verb with `bu' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"bu\" (archaïque)"
+
+#: loco:59467346c430fece438b4573
+msgid "Yodan verb with `mu' ending (archaic)"
+msgstr "Verbe du groupe Yodan (四段) finissant en \"mu\" (archaïque)"
+
+#: loco:5946734cc430fea5438b4575
+msgid "Nidan verb (upper class) with `ku' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"ku\" (archaïque)"
+
+#: loco:59467353c430feb3438b4573
+msgid "Nidan verb (upper class) with `gu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"gu\" (archaïque)"
+
+#: loco:5946735ac430fece438b4575
+msgid "Nidan verb (upper class) with `tsu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"tsu\" (archaïque)"
+
+#: loco:59467362c430fea4448b4579
+msgid "Nidan verb (upper class) with `dzu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"dzu\" (archaïque)"
+
+#: loco:59467369c430fea1448b4575
+msgid "Nidan verb (upper class) with `hu/fu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"hu/fu\" (archaïque)"
+
+#: loco:59467371c430fea5438b4577
+msgid "Nidan verb (upper class) with `bu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"bu\" (archaïque)"
+
+#: loco:5946737ac430feb3438b4575
+msgid "Nidan verb (upper class) with `mu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"nu\" (archaïque)"
+
+#: loco:59467381c430fea1448b4577
+msgid "Nidan verb (upper class) with `yu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"yu\" (archaïque)"
+
+#: loco:59467387c430fe60458b4571
+msgid "Nidan verb (upper class) with `ru' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"ru\" (archaïque)"
+
+#: loco:5946738ec430fe33458b4571
+msgid "Nidan verb (lower class) with `ku' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"ku\" (archaïque)"
+
+#: loco:59467395c430fe8a448b457b
+msgid "Nidan verb (lower class) with `gu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"gu\" (archaïque)"
+
+#: loco:5946739cc430feb2438b456f
+msgid "Nidan verb (lower class) with `su' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"su\" (archaïque)"
+
+#: loco:594673a3c430fef2438b4581
+msgid "Nidan verb (lower class) with `zu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"zu\" (archaïque)"
+
+#: loco:594673abc430fea4448b457b
+msgid "Nidan verb (lower class) with `tsu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"tsu\" (archaïque)"
+
+#: loco:594673b3c430fecd438b457b
+msgid "Nidan verb (lower class) with `dzu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"dzu\" (archaïque)"
+
+#: loco:594673b9c430fea1448b4579
+msgid "Nidan verb (lower class) with `nu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"nu\" (archaïque)"
+
+#: loco:594673bfc430fea4448b457d
+msgid "Nidan verb (lower class) with `hu/fu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"hu/fu\" (archaïque)"
+
+#: loco:594673c5c430fe43468b4567
+msgid "Nidan verb (lower class) with `bu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"bu\" (archaïque)"
+
+#: loco:594673ccc430fe94458b456b
+msgid "Nidan verb (lower class) with `mu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"mu\" (archaïque)"
+
+#: loco:594673d4c430fe60458b4573
+msgid "Nidan verb (lower class) with `yu' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"yu\" (archaïque)"
+
+#: loco:594673dac430fe2f468b4567
+msgid "Nidan verb (lower class) with `ru' ending (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"ru\" (archaïque)"
+
+#: loco:594673e2c430fe5f468b4567
+msgid "Nidan verb (lower class) with `u' ending and `we' conjugation (archaic)"
+msgstr "Verbe du groupe Nidan (二段) finissant en \"u\" (archaïque)"
+
+#: loco:594673f7c430fe2f468b4569
+msgid "architecture term"
+msgstr "Terme en architecture"
+
+#: loco:594673fdc430fe94458b456d
+msgid "astronomy, etc. term"
+msgstr "Terme en astronomie"
+
+#: loco:59467403c430fe18468b4567
+msgid "baseball term"
+msgstr "Terme en baseball"
+
+#: loco:5946740ac430fe46468b4567
+msgid "biology term"
+msgstr "Terme biologique"
+
+#: loco:59467410c430fe1e458b456d
+msgid "botany term"
+msgstr "Terme botanique"
+
+#: loco:59467417c430fe60458b4575
+msgid "business term"
+msgstr "Terme concernant les affaires"
+
+#: loco:5946741cc430fea1448b457b
+msgid "economics term"
+msgstr "Terme économique"
+
+#: loco:59467423c430fe60458b4577
+msgid "engineering term"
+msgstr "Terme d'ingénérie"
+
+#: loco:59467429c430fe2f468b456b
+msgid "finance term"
+msgstr "Terme financier"
+
+#: loco:59467431c430fe94458b456f
+msgid "geology, etc. term"
+msgstr "Terme géologique"
+
+#: loco:59467437c430fe51468b4567
+msgid "law, etc. term"
+msgstr "Terme juridique"
+
+#: loco:59467440c430fe59468b4567
+msgid "mahjong term"
+msgstr "Terme en relation avec le mahjong"
+
+#: loco:59467446c430fe33468b4567
+msgid "medicine, etc. term"
+msgstr "Terme médical"
+
+#: loco:5946744cc430fe43468b4569
+msgid "music term"
+msgstr "Terme en relation avec la musique"
+
+#: loco:59467453c430fefb438b4571
+msgid "Shinto term"
+msgstr "Terme Shinto"
+
+#: loco:59467459c430fe33468b4569
+msgid "shogi term"
+msgstr "Terme en relation avec le shogi"
+
+#: loco:5946745fc430fea1448b457d
+msgid "sports term"
+msgstr "Terme sportif"
+
+#: loco:59467464c430fe5f468b4569
+msgid "sumo term"
+msgstr "Terme en relation avec le sumo"
+
+#: loco:594675a5c430fe42468b4568
+msgid "zoology term"
+msgstr "Terme zoologique"
+
+#: loco:594675aac430fea1448b4580
+msgid "jocular, humorous term"
+msgstr "Terme humoristique"
+
+#: loco:594675b0c430fe5f468b456b
+msgid "anatomical term"
+msgstr "Terme d'anatomie"
